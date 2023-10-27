@@ -21,7 +21,7 @@ Python,
 Deep Learning, 
 Computer Vision,
 SQL Databases,
-Jupyter Notebook Tips and Tricks... or anything [here](https://github.com/iAtharva26)**
+Jupyter Notebook Tips and Tricks... or anything [here](https://github.com/iAtharva26/iAtharva26/issues)**
 
  ⚡ Fun fact **I'm not only passionate about data science, but I'm also an avid musician!**
  
